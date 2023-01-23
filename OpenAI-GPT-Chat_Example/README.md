@@ -13,6 +13,8 @@ This is what it looks like:
 ![Enter Prompt .png](https://github.com/tateemma/Data-Science-and-Machine-Learning-Projects/blob/main/OpenAI-GPT-Chat_Example/images/Question.png)
 
 - The response is given after clicking the 'Get a response' button.
+
+
 ![Response .png](https://github.com/tateemma/Data-Science-and-Machine-Learning-Projects/blob/main/OpenAI-GPT-Chat_Example/images/Response.png)
 
 **The code used here is a combination of code from the OpenAI quickstart guide and the chat example.
